@@ -640,7 +640,7 @@ body {
 .about__special-text {
     font-size: 14rem;
     font-weight: bold;
-    background: url("/assets/img/bg-number.jpg") no-repeat;
+    background: url("../../assets/img/bg-number.jpg") no-repeat;
     background-size: contain;
     background-position: 0;
     -webkit-background-clip: text;
